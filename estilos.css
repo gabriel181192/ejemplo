@@ -1,0 +1,44 @@
+body{
+    background-image: url("img/fondo.jpg")
+}
+.menu {
+    background: aqua;
+}
+
+.nav{
+    background-color: #4da6ff;
+}
+
+.garrafon {
+    padding-left: 250px;
+    width: 500px;
+    height: 500px;
+}
+
+.garrafon1 {    
+    width: 50%;
+    height: 50%;
+}
+
+.signos {
+    width: 100px;
+    height: 100px;
+    margin: 5px 5px 5px 5px;
+}
+
+.border {
+    border: black 2px solid;
+}
+
+nav.navbar{
+    background-color: black;
+}
+
+button{
+    width: 100%;
+
+}
+input{
+    width: 100%;
+}
+
